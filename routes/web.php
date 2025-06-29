@@ -11,4 +11,3 @@ Route::get('/index',function(){
     return "Hello World";
 });
 
-//Sadat os frp,
